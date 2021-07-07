@@ -1,0 +1,16 @@
+{
+    "name": "alama/php-cookbook",
+    "autoload": {
+        "psr-4": {
+            "Alama\\PhpCookbook\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed Alama",
+            "email": "mohammedalsayed9688@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
